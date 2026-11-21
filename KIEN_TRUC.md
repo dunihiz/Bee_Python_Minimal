@@ -1,4 +1,4 @@
-# Kiến trúc hệ thống
+# Kiến trúc hệ thống — Bee Python Minimal
 
 Tài liệu này mô tả source hiện có, luồng dữ liệu và các hợp đồng nội bộ trong
 gói. Mục tiêu là giúp người phát triển đọc, sửa hoặc tiếp tục module mà không
